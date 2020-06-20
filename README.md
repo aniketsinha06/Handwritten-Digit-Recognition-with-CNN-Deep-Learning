@@ -2,7 +2,7 @@
 ### Description
 Recognition of Handwritten digits using Convolutional Neural Network - a Deep Learning approach
 
-Python libraries used :
+### Python libraries used :
 
 1. Tensorflow
 2. Keras
